@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.py[cod]
+output_clips/
+*.mp4
+*.mp3
+*.srt
